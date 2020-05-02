@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}
+Display Employee Details
+{% endblock %}
+
+{% block content %}
+<h2>Details</h2>
+    <table border = 1>
+            <tr>
+                <th> {{ employeedetails[0] }} </th>
+                <td> {{ employeedetails[1] }} </td>
+                <td> {{ employeedetails[2] }} </td>
+            </tr>
+    </table>
+{% endblock %}
+
+
+
+
