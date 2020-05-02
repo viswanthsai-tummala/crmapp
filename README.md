@@ -1,1 +1,1 @@
-As prt of prep fro DevNet preparing JSON, Flask based CRm module 
+As part of prep for DevNet, developing JSON and Flask based CRM module 
